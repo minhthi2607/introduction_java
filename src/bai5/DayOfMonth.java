@@ -27,7 +27,7 @@ public class DayOfMonth {
             case 2:
                 System.out.println("28 or 29 days");
             default:
-                System.out.println("Invalid month"1);
+                System.out.println("Invalid month");
         }
     }
 }
