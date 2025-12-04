@@ -25,5 +25,6 @@ public class LinearEquationResolver {
                 System.out.println("The equation has no solution");
             }
         }
+        scanner.close();
     }
 }
